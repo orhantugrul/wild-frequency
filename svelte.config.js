@@ -11,6 +11,9 @@ const config = {
     alias: {
       $components: "./src/components",
     },
+    paths: {
+      base: "/fun/wild-frequency",
+    },
   },
 };
 
