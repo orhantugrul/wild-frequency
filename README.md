@@ -57,5 +57,3 @@ This project is licensed under the **MIT License**. Go wild.
 - **Mother Nature**: For the endless inspiration.
 - **The Svelte & Tailwind Teams**: For building tools that slap.
 - **You**: For giving this project a spin.
-
-**Made with ❤️ and a whole lot of 🎤 by [Orhan Tugrul](https://github.com/orhantugrul)**
